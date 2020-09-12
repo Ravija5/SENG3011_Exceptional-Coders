@@ -11,7 +11,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "jsonschema": "^1.2.5",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "jest": "^25.1.0"
